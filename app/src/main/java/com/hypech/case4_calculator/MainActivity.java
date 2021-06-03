@@ -1,4 +1,4 @@
-package com.hypech.case4calculator;
+package com.hypech.case4_calculator;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
